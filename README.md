@@ -46,10 +46,10 @@ Welcome to my mechatronics design archive. This repository documents my independ
 I am currently working through a 5-video industrial design playlist to model a complete articulated robotic arm. This section serves as a live progress log as I complete and export each individual component before final assembly.
 
 ### 📸 Component 1: Main Base 
-![Robot Base Plate](Project_04_Robotic_Arm_Components/Project_04_Robotic_Arm/Main_Base/part1_main_base.png)
+![Robot Base Plate](Project_04_Robotic_Arm/Project_04_Robotic_Arm/Main_Base/part1_main_base.png)
 
 ### 📸 Component 2: Jaw 1
-![Robot Main Housing](Project_04_Robotic_Arm_Components/Jaw1/part2_jaw1.png)
+![Robot Main Housing](Project_04_Robotic_Arm/Jaw1/part2_jaw1.png)
 
 ### 📐 Design Logic 
 * **Making Parts Fit:** I am sketching new pieces directly on top of my previous parts so that all the holes and faces line up perfectly for the final assembly.
