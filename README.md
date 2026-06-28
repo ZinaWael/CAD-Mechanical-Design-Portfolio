@@ -10,3 +10,5 @@ Welcome to my mechatronics design archive. This repository documents my independ
 ### 📐 Design Logic & Engineering Takeaways
 * **Autonomous Modeling:** Reverse-engineered a mechanical transmission spur gear directly from a 2D dimensioned drawing sheet I found on Pinterest without video tutorials.
 * **Geometric Construction:** Practiced geometric shape blending and precise circular patterning constraints to align gear teeth and mounting slots symmetrically around a central axis.
+
+## Project 2: Oval Bracket (Pinterest Reverse-Engineering Study)
