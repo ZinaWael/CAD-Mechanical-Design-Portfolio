@@ -12,3 +12,8 @@ Welcome to my mechatronics design archive. This repository documents my independ
 * **Geometric Construction:** Practiced geometric shape blending and precise circular patterning constraints to align gear teeth and mounting slots symmetrically around a central axis.
 
 ## Project 2: Oval Bracket (Pinterest Reverse-Engineering Study)
+
+### 📸 Visual Model Presentation
+![Industrial Oval Bracket](oval_bracket_screenshot.png)
+
+### 📐 Design Logic & Engineering Takeaways
