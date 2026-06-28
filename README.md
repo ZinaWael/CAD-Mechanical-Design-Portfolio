@@ -5,7 +5,7 @@ Welcome to my mechatronics design archive. This repository documents my independ
 ## Project 1: Industrial Spur Gear (Pinterest Reverse-Engineering Study)
 
 ### 📸 Visual Model Presentation
-![Industrial Spur Gear](gear1_screenshot.png)
+![Industrial Spur Gear](Project_01_Gear/gear1_screenshot.png)
 
 ### 📐 Design Logic & Engineering Takeaways
 * **Autonomous Modeling:** Reverse-engineered a mechanical transmission spur gear directly from a 2D dimensioned drawing sheet I found on Pinterest without video tutorials.
@@ -14,6 +14,6 @@ Welcome to my mechatronics design archive. This repository documents my independ
 ## Project 2: Oval Bracket (Pinterest Reverse-Engineering Study)
 
 ### 📸 Visual Model Presentation
-![Industrial Oval Bracket](oval_bracket_screenshot.png)
+![Industrial Oval Bracket](Project_02_Bracket/oval_bracket_screenshot.png)
 
 ### 📐 Design Logic & Engineering Takeaways
