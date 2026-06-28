@@ -20,3 +20,14 @@ Welcome to my mechatronics design archive. This repository documents my independ
 * Built the slot profile manually by intersecting a central rectangle sketch with two tangent circle halves.
 * Sketched holes on the base plate to allow mounting bolt heads.
 * Applied the fillet tool to the sharp edges.
+
+## Project 3: Robotic Arm Base (Video-Guided Practice)
+
+### 📸 Visual Model Presentation
+![Robotic Base](Project_03_Robot_Base/robot_base_screenshot.png)
+
+### 📐 How I Designed It
+* **Video-Guided Layout:** Followed a step-by-step video tutorial to learn how to structure complex industrial parts.
+* **Side Motor Mount:** Modeled a rectangular box housing directly onto the side of the main cylinder to act as a holder for a servo motor.
+* **Base Holes and Smooth Edges:** Placed four alignment holes on the square base plate and used the fillet tool to create smooth transitions at the structural joints.
+
