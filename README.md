@@ -41,7 +41,7 @@ Welcome to my mechatronics design archive. This repository documents my independ
 * **Side Motor Mount:** Modeled a rectangular box housing directly onto the side of the main cylinder to act as a holder for a servo motor.
 * **Base Holes and Smooth Edges:** Placed four alignment holes on the square base plate and used the fillet tool to create smooth transitions at the structural joints.
 
-## Project 4: 6-Axis Robotic Arm Components (Video-Guided Practice)
+## Project 4: 6-Axis Robotic Arm components (Video-Guided Practice)
 
 I am currently working through a 5-video industrial design playlist to model a complete articulated robotic arm. This section serves as a live progress log as I complete and export each individual component before final assembly.
 
