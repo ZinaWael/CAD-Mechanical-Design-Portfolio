@@ -17,3 +17,6 @@ Welcome to my mechatronics design archive. This repository documents my independ
 ![Industrial Oval Bracket](Project_02_Bracket/oval_bracket_screenshot.png)
 
 ### 📐 Design Logic & Engineering Takeaways
+* Built the slot profile manually by intersecting a central rectangle sketch with two tangent circle halves.
+* Sketched holes on the base plate to allow mounting bolt heads.
+* Applied the fillet tool to the sharp edges.
