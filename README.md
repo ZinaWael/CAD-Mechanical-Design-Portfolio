@@ -43,7 +43,7 @@ I am currently working through a 5-video industrial design playlist to model a c
 ![Robot Jaw1](Project_04_Robotic_Arm/Jaw1/part2_jaw1.png)
 
 ### 📸 Component 3: Jaw 2
-![Robot Jaw1](Project_04_Robotic_Arm/Jaw 2/jaw2.png)
+![Robot Jaw2](Project_04_Robotic_Arm/Jaw 2/jaw2.png)
 
 ### 📐 Design Logic 
 * **Making Parts Fit:** I am sketching new pieces directly on top of my previous parts so that all the holes and faces line up perfectly for the final assembly.
