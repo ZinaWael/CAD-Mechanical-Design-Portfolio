@@ -40,7 +40,10 @@ I am currently working through a 5-video industrial design playlist to model a c
 ![Robot Base Plate](Project_04_Robotic_Arm/Main_Base/part1_main_base.png)
 
 ### 📸 Component 2: Jaw 1
-![Robot Main Housing](Project_04_Robotic_Arm/Jaw1/part2_jaw1.png)
+![Robot Jaw1](Project_04_Robotic_Arm/Jaw1/part2_jaw1.png)
+
+### 📸 Component 3: Jaw 2
+![Robot Jaw2](Project_04_Robotic_Arm/Jaw2/jaw2.png)
 
 ### 📐 Design Logic 
 * **Making Parts Fit:** I am sketching new pieces directly on top of my previous parts so that all the holes and faces line up perfectly for the final assembly.
