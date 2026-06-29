@@ -45,6 +45,9 @@ I am currently working through a 5-video industrial design playlist to model a c
 ### 📸 Component 3: Jaw 2
 ![Robot Jaw2](Project_04_Robotic_Arm/Jaw2/jaw2.png)
 
+### 📸 Component 4: Jaw 3
+![Robot Jaw3](Project_04_Robotic_Arm/Jaw3/jaw3.png)
+
 ### 📐 Design Logic 
 * **Making Parts Fit:** I am sketching new pieces directly on top of my previous parts so that all the holes and faces line up perfectly for the final assembly.
 * **Using Pattern Tools:** I am using the circular pattern tool to copy bolt holes and structural support ribs around the cylinders to save time and keep things perfectly symmetric.
